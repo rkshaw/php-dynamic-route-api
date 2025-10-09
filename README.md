@@ -8,7 +8,7 @@ Features:
 - PDO Database service (configure DB in app/Config/config.php)
 - Product CRUD (id,name,size,is_available)
 - Custom action routing: /api/{controller}/{customMethod}
-- Swagger annotations (swagger.php + app/Docs/OpenApiMetadata.php)
+- Swagger annotations (swagger.php + app/Docs/*.php)
 
 Setup:
 1. Unzip into your htdocs (e.g., D:/xampp/htdocs/php-api-psr4)
